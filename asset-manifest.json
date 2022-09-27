@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pritamtalukdar.github.io/csb-7078h3/static/css/main.8482fca6.chunk.css",
+    "main.js": "https://pritamtalukdar.github.io/csb-7078h3/static/js/main.93e8f62f.chunk.js",
+    "main.js.map": "https://pritamtalukdar.github.io/csb-7078h3/static/js/main.93e8f62f.chunk.js.map",
+    "runtime-main.js": "https://pritamtalukdar.github.io/csb-7078h3/static/js/runtime-main.211ce773.js",
+    "runtime-main.js.map": "https://pritamtalukdar.github.io/csb-7078h3/static/js/runtime-main.211ce773.js.map",
+    "static/js/2.0b33063e.chunk.js": "https://pritamtalukdar.github.io/csb-7078h3/static/js/2.0b33063e.chunk.js",
+    "static/js/2.0b33063e.chunk.js.map": "https://pritamtalukdar.github.io/csb-7078h3/static/js/2.0b33063e.chunk.js.map",
+    "index.html": "https://pritamtalukdar.github.io/csb-7078h3/index.html",
+    "static/css/main.8482fca6.chunk.css.map": "https://pritamtalukdar.github.io/csb-7078h3/static/css/main.8482fca6.chunk.css.map",
+    "static/js/2.0b33063e.chunk.js.LICENSE.txt": "https://pritamtalukdar.github.io/csb-7078h3/static/js/2.0b33063e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.211ce773.js",
+    "static/js/2.0b33063e.chunk.js",
+    "static/css/main.8482fca6.chunk.css",
+    "static/js/main.93e8f62f.chunk.js"
+  ]
+}
